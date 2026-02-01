@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a 1st-year student of Software Engineering, focused on full stack web development.
+I'm a 1st-year Software Engineering student, focused on full stack web development.
 
 > ### Main technologies: 
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
