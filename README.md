@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**silver-ward/silver-ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st-year software engineer focused on full stack web development.
 
-Here are some ideas to get you started:
+> ### Main technologies:
+> C# | .NET | TypeScript | Angular | SQL | Docker
+> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More about me:
+- I'm learning to read sheet music on the guitar 🎼;
+- I've a bit of experience with agroforestry 🌳🌱;
+- I have a degree in English Teaching (if you ever find any errors, it's only because I was trying to be chill and laid back, obviously).
+- I dream of one day making an educational game that is actually fun;
+
+#### Looking to collaborate on web, educational, AI, and gaming projects!
