@@ -16,6 +16,6 @@ I'm a 1st-year Software Engineering student, focused on full stack web developme
 - I'm learning to read sheet music on the guitar 🎼;
 - I've a bit of experience with agroforestry 🌳🌱;
 - I have a degree in English Teaching (if you ever find any errors, it's only because I was trying to be chill and laid back, obviously);
-- I dream of one day making an educational game that is actually fun.
+- In the future, I see myself making educational games that are actually fun.
 
 #### Looking to collaborate on web, educational, AI, and gaming projects!
