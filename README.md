@@ -12,7 +12,7 @@ I'm a 1st-year Software Engineering student, focused on full stack web developme
 >
 > C# | .NET | TypeScript | Angular | SQL | Docker
 
-## More skills that often come in handy:
+### More skills that often come in handy:
 - I speak Portuguese natively and have a Bachelor’s Degree in English Language (Teaching License) (if you ever find any errors, it's only because I was trying to be chill and laid back, obviously);
 - I've worked with design and image editing tools like Photoshop CC and Inkscape;
 
